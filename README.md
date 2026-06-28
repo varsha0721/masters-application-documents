@@ -32,7 +32,7 @@ To help you navigate these materials, here are the formal definitions of the cor
     └── [Official admission offers received during the 2025 cycle]
 
 ---
-
+```
 ## 🛠️ Document Frameworks & Color-Coding Annotation
 To make these templates highly functional for benchmarking and editing, each document has its structural points explicitly defined and paired with a color-coded annotation system within the drafts.
 
